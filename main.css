@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+}
+
+.products{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+.product{
+    border: 1px black solid;
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+}
+.product img{
+    margin: 5px;
+    width: 98%;
+
+}
+
+.product h2{
+    margin-top: 5px;
+    margin-bottom:10px;
+
+}
+.product h3{
+    margin-top: 5px;
+    color: green;
+    display:inline-block;
+}
+.product h4{
+    color:red;
+    text-decoration: line-through;
+    display: inline-block;
+}
+.product .button1{
+    border: solid blue 1px;
+    color: white;
+    background-color: blue;
+    padding: 10px 30px;
+    margin-top: 5px;
+}
+.product .button2{
+    border: solid blue 2px;
+    color: blue;
+    background-color: white;
+    padding: 10px 15px;
+}
+
+.clear{
+    clear: both;
+}
+
